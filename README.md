@@ -1,11 +1,17 @@
 # ujikom
 
-|-- README.md             #Dokumentasi proyek
-|-- index.php             #Halaman utama dengan pilihan jenis beasiswa
-|-- pendaftara.php        #Formulir pendaftaran untuk beasiswa
-|-- add_pendaftar.php     #Proses pengiriman inputan formulir ke database
-|-- fileconnection.php    #Koneksi ke database
-|-- mycss.css             #File CSS kustom untuk tampilan
-|-- myjs.js               #File JavaScript kustom untuk fungsi tambahan
-|-- jquery.js             #File JavaScript dari jQuery
-|-- database.sql          #Skema basis data dan data awal jika diperlukan
+📦ujikomrevisi
+ ┣ 📂upload																																												#Direktori untuk file-file yang diunggah
+ ┃ ┣ 📜11 Life Lessons My Kids Learned from SpongeBob SquarePants - Let Me Start By Saying.png
+ ┃ ┣ 📜202c944b-7ca8-4528-99d1-f93981c9c826.jpeg
+ ┃ ┗ 📜DATASET TELCO CHURN RATE_PROYEK DATA SCIENCE_PERTEMUAN KE_04.csv
+ ┣ 📜add_pendaftar.php																																						#proses memasukan input ke database
+ ┣ 📜connection.php																																								#koneksi
+ ┣ 📜hasil.php																																										#list pendaftar
+ ┣ 📜index.php																																										#halaman utama pilihan beasiswa
+ ┣ 📜jquery.js
+ ┣ 📜mycss.css																																										#kustom untuk tampilan
+ ┣ 📜myjs.js																																											#fungsi tambahan
+ ┣ 📜pendaftaran.php																																							#formulir pendaftaran
+ ┣ 📜README.md																																															
+ ┗ 📜ujikom (1).sql																																								#database
